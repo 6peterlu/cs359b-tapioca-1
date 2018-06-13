@@ -7,7 +7,7 @@
   var CLOSED_STATE = 2;
   var SETTLED_STATE = 3;
 
-  QuestionView.remoteHost = "http://127.0.0.1:3000/"
+  QuestionView.remoteHost = "http://tapioca-dapp.herokuapp.com/"
   QuestionView.activeAnswers = 0
 
   function getParameterByName(name, url) {
